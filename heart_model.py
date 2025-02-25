@@ -1,5 +1,3 @@
-## C:\Users\G-Man\Installs\Python\Python311\python.exe -m streamlit run heart_model.py
-## https://share.streamlit.io
 
 import streamlit as st
 import numpy as np
